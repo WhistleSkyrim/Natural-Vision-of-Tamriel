@@ -11,13 +11,6 @@
 
 <img width="1024" height="256" alt="плюсы сборки" src="https://github.com/user-attachments/assets/6a44c26f-ef66-4b07-a9a9-c0d772c97376" />
 
----
-
- 
-<img width="1024" height="256" alt="ВСЯ НУЖНА ИНФА" src="https://github.com/user-attachments/assets/3bd89966-9083-4929-8f88-ab27bf949abb" />
-
-
-
 
 ---
 
