@@ -40,7 +40,8 @@
 <summary><strong>Шаг 2</strong></summary>
 
 Авторизируйся следуя инструкции в лаунчере
-<img width="900" height="806" alt="{1CC91D73-BFD1-4229-B0FF-984E5810A075}" src="https://github.com/user-attachments/assets/1d932d99-ee47-4e3e-9d44-8d13f2f4c565" />
+
+<img width="450" height="403" alt="{1CC91D73-BFD1-4229-B0FF-984E5810A075}" src="https://github.com/user-attachments/assets/1d932d99-ee47-4e3e-9d44-8d13f2f4c565" />
 
 
 </details>
