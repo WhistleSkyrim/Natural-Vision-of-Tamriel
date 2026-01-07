@@ -39,115 +39,24 @@
 <details>
 <summary><strong>Шаг 1</strong></summary>
 
-Установи [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+Скачай отсюда лаунчер - [ЖМАК](https://boosty.to/whistle/posts/89927ef0-0ecc-4c45-8256-8c262372ce75?share=post_link)
 
 </details>
 
 <details>
 <summary><strong>Шаг 2</strong></summary>
 
-Установи [.NET Runtime 8.0.5 x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.5-windows-x64-installer)      
+Авторизируйся следуя инструкции в лаунчере
+<img width="900" height="806" alt="{1CC91D73-BFD1-4229-B0FF-984E5810A075}" src="https://github.com/user-attachments/assets/1d932d99-ee47-4e3e-9d44-8d13f2f4c565" />
 
-Установи [.NET Runtime v6](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.36-windows-x64-installer)      
-
-Установи [.NET Runtime v9](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-9.0.6-windows-x64-installer)      
-
-После чего **ОБЯЗАТЕЛЬНО** перезагрузи компьютер
 
 </details>
 
 <details>
 <summary><strong>Шаг 3</strong></summary>
 
-Установи **7-Zip** (**НЕ** WinRAR)  
-[ССЫЛКА](https://www.7-zip.org/)
-
-</details>
-
-<details>
-<summary><strong>Шаг 4</strong></summary>
-
-Скачай архивы отсюда **ПО ОДНОМУ** – **[ЖМАКАЙ СЮДА](https://boosty.to/whistle/posts/32fa6a35-84fd-450a-a9eb-45fa8d1c043e?share=post_link)**
-
-</details>
-
-<details>
-<summary><strong>Шаг 5</strong></summary>
-
-После скачивания помести архивы в одну папку и просто нажми распаковать на самый первый архив. Жать нужно именно на архив 001 и распаковывать **ТОЛЬКО** через 7zip
- 
- <img width="1046" height="521" alt="firefox_u3tZXN8aoB" src="https://github.com/user-attachments/assets/7f76163b-a7e2-4e09-ba9a-14dec65c25cb" />
-
-
-</details>
-
-<details>
-<summary><strong>Шаг 6</strong></summary>
-
-После распаковки у тебя будет папка **SkyrimDragonis**
-
-</details>
-
-<details> 
-<summary><strong>Шаг 7</strong></summary>
-
-Запусти `ModOrganizer.exe` в этой папке
-
-</details>
-
-<details>
-<summary><strong>Шаг 8</strong></summary>
-
-Меняем пути к сборке (если ты установил сборку прямо в диск C: - пропускай 8-9 шаг):  
-
-- В верхней панели нажми **шестерёнку**  
-  <br><img width="1920" height="1009" alt="ModOrganizer_y7zrkVUuQP" src="https://github.com/user-attachments/assets/2d6521d7-1bd9-4879-9301-8c18e331b320" />
-
-- Перейди во вкладку **Пути**  
-- Там поменяй путь "Управляемой игры" на ту которая находится в папке SkyrimDragonis - Stock Game  
-  <br><img width="819" height="590" alt="ModOrganizer_rZ67JBmBgW" src="https://github.com/user-attachments/assets/950bbf6b-b8d6-418a-a610-b0378f447eea" />
-
-**ИГРА УЖЕ ЕСТЬ В СБОРКЕ В ПАПКЕ "Stock Game"**  
-→ Нажми **ОК**
-
-</details>
-
-<details>
-<summary><strong>Шаг 9</strong></summary>
-
-То же самое делаем и с SKSE:  
-
-- Нажми в правом верхнем углу на **Skyrim Dragonis** (или другую программу, которая там может стоять)  
-  <br><img width="1011" height="684" alt="ModOrganizer_fLQ4HKhfI2" src="https://github.com/user-attachments/assets/79cbecc0-a7ea-4cd1-8944-0d943662f7d0" />
-
-- У тебя откроется окошко, в котором нужно нажать **Изменить...**  
-- Укажи путь для Skyrim Dragonis (или же SKSE64):  
-  `Skyrim Dragonis/mods/SKSE/root/skse64_loader.exe`  
-  <br><img width="1143" height="495" alt="ModOrganizer_fwuaZ53v6d" src="https://github.com/user-attachments/assets/8340e1a3-3916-4a58-9f44-8bc0c3d3969f" />
-
-  **И ОБЯЗАТЕЛЬНО ПРОВЕРЬТЕ ВКЛЮЧЕНЫ ЛИ У ВАС ВСЕ ПЛАГИНЫ В ПРАВОМ ОКНЕ МО2. ЕСЛИ НЕТ ТО ОБЯЗАТЕЛЬНО ВКЛЮЧИТЕ**
-
-</details>
-
-<details>
-<summary><strong>Шаг 10</strong></summary>
-
-Сохраняй и жми **Играть** . СТИМ ДОЛЖЕН БЫТЬ ИЗНАЧАЛЬНО ЗАПУЩЕН ПЕРЕД ЗАПУСКОМ ИГРЫ ЛИБО ПРОГРАММЫ В МО2
-
-</details>
-
-<details>
-<summary><strong>❗ ВАЖНО, ЕСЛИ ПИШЕТ, ЧТО НЕ МОЖЕТ НАЙТИ SKSE64</strong></summary>
-
-Проверь:
-
-- Отключили ли вы антивирус перед тем как распаковать сборку  
-- Проверьте наличие `skse64_loader.exe` в папке `SkyrimDragonis/mods/SKSE/Root/skse64_loader.exe`  
-
-⚠️ **РЕШЕНИЕ:**  
-Скачать [ОТСЮДА](https://skse.silverlock.org/beta/skse64_2_00_20.7z) SKSE64
-
-</details>
+Выбери NVOT и установи её.
+**ВСЁ!**, больше делать ничего не нужно
 
 > ❌ Сборка не тестировалась на пиратках. Только лицензия!
 
